@@ -7,7 +7,7 @@ using System.Collections.Generic;
 
 namespace CryptographyLib
 {
-    class Analysis
+    public class Analysis
     {
         private static string alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         private static string filePath = "";
