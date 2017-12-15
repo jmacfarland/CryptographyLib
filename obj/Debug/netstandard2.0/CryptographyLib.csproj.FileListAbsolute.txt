@@ -1,0 +1,8 @@
+C:\Users\JMacfarland\CryptographyLib\bin\Debug\netstandard2.0\CryptographyLib.deps.json
+C:\Users\JMacfarland\CryptographyLib\bin\Debug\netstandard2.0\CryptographyLib.dll
+C:\Users\JMacfarland\CryptographyLib\bin\Debug\netstandard2.0\CryptographyLib.pdb
+C:\Users\JMacfarland\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.csproj.CoreCompileInputs.cache
+C:\Users\JMacfarland\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.AssemblyInfoInputs.cache
+C:\Users\JMacfarland\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.AssemblyInfo.cs
+C:\Users\JMacfarland\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.dll
+C:\Users\JMacfarland\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.pdb
