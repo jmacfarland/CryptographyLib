@@ -7,7 +7,7 @@ using System.Collections.Generic;
 
 namespace CryptographyLib
 {
-    class Utils
+    public class Utils
     {
         private static string plainAlphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 

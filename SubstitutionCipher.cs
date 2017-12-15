@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CryptographyLib
 {
-    class SubstitutionCipher
+    public class SubstitutionCipher
     {
         private static string plainAlphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         private Random rnd;
