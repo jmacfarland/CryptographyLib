@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace CryptographyLib
@@ -89,6 +90,15 @@ namespace CryptographyLib
             arr[j] = value;
 
             return new string(arr);
+        }
+
+        //returns false if key is not 26 letters, or is not alphabetic.
+        //returns true otherwise.
+        public static bool validateKey(string key)
+        {
+            if(key == null || key.Length != 26 || !Regex.IsMatch(key, @"^[a-zA-Z]+$"))
+                return false;
+            return true;
         }
     }
 }

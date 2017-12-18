@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>jmacfarland.CryptographyLib</id>
+    <version>1.1</version>
+    <title>CryptographyLib</title>
+    <authors>jmacfarland</authors>
+    <owners>jmacfarland</owners>
+    <licenseUrl>http://github.com/jmacfarland/CryptographyLib/blob/master/LICENSE</licenseUrl>
+    <projectUrl>http://github.com/jmacfarland/CryptographyLib</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A library for encoding, decoding, and breaking simple substitution ciphers.</description>
+    <releaseNotes>Reuploading with csproj instead of dll</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Cryptography</tags>
+  </metadata>
+  <files>
+    <file src="bin/Debug/netcoreapp2.0/*.dll" target="lib"></file>
+  </files>
+</package>
